@@ -1,5 +1,5 @@
 import openai
-openai.api_key = "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"
+openai.api_key = "Private Key"
 
 resultado = openai.Image.create(
     prompt = "A cute yellow fish",
